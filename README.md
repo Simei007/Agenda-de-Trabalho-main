@@ -32,7 +32,9 @@ flutter run
 ```
 ## Github
 - Sempre que alterar algo:
+```bash
 git add .
 git commit -m "descrição da alteração"
 git push
+````
 
