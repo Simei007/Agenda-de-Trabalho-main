@@ -30,3 +30,9 @@ flutter analyze
 flutter test
 flutter run
 ```
+## Github
+- Sempre que alterar algo:
+git add .
+git commit -m "descrição da alteração"
+git push
+
